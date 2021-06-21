@@ -1,0 +1,26 @@
+{
+  "name": "mynotesapp",
+  "version": "1.0.0",
+  "description": "This is a basic notes application I created while following along with a Udemy course about Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cguirgu/myNotesApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cguirgu/myNotesApp/issues"
+  },
+  "homepage": "https://github.com/cguirgu/myNotesApp#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.7",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
+}
